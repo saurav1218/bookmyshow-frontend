@@ -1,0 +1,91 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(51,53,69);
+    align-items: center;
+    height: 55px;
+}
+*{
+    margin: 0px;
+}
+.search input{
+    height: 30px;
+    width: 500px;
+    border: 0px;
+    border-radius: 5px;
+    transform: translateX(-150px);
+}
+.city select{
+    border: none;
+    background-color:  rgb(51,53,69);
+    color: white;
+}
+.city button{
+    background-color: rgb(239,37,77);
+    color: gainsboro;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 15px;
+    }
+    .navlink{
+        display: flex;
+        justify-content: space-around;
+        background-color: rgb(34, 37, 57);
+        height: 40px;
+        align-items: center;
+    }
+    .navlink a{
+        color: gainsboro;
+        text-decoration: none;
+        margin: 0px 5px;
+    }
+    .nav1{
+        transform: translateX(-62px);
+    }
+    .nav2{
+        transform: translateX(62px);
+    }
+    sup{
+        color: red;
+    }
+    .content img{
+        margin: 10px 10px;  
+        border-radius: 5px;
+    }
+    .content{
+        background-color: gainsboro;
+    }
+    .content1{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 5px 80px;
+    }
+    .content1 a{
+          color: red;
+          text-decoration: none;
+    }
+    .content2{
+        display: flex;
+        justify-content: space-evenly;
+        padding: 0px 70px;
+    }
+    .content2 img{
+        height: 400px;
+        width: 230px;
+        border-radius: 10px;
+        transform: translateY(80px);
+    }
+    .content2 img:hover{
+        transform: translateY(0px);
+        transition: 1s;
+    }
+    .section{
+         width: 230px;
+    }
+    .section p{
+        margin-top: 10px;
+    }
+    .section h3{
+        margin-top: 10px;
+    }

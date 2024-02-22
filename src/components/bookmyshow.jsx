@@ -61,19 +61,19 @@ const Bookmyshow = () => {
                 <p>Action/Thriller</p>
             </div>
             <div class="section"><img
-                    src="https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OS40LzEwICA0Ni4xSyB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00346626-vnzlbbnyzy-portrait.jpg" alt=""/>
-                <h3>Virupaksha</h3>
-                <p>Action/Mystery/Thriller</p>
+                    src="https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@like_202006280402.png,lx-24,ly-617,w-29,l-end:l-text,ie-MzVLIExpa2Vz,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00384444-hgdnnbkwhb-portrait.jpg" alt=""/>
+                <h3>Article 370</h3>
+                <p>Drama/Political</p>
             </div>
             <div class="section">
-                <img src="https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@like_202006280402.png,ox-24,oy-617,ow-29:ote-MTE2LjVLIGxpa2Vz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00310078-fkyazsqyfj-portrait.jpg" alt=""/>
-                <h3>Agent</h3>
-                <p>Action/Thriller</p>
+                <img src="https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OS4zLzEwICA0OC40SyBWb3Rlcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00379479-dzdubkdgum-portrait.jpg" alt=""/>
+                <h3>Premalu</h3>
+                <p>Comedy/Romantic</p>
             </div>
             <div class="section">
-                <img src="https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-Ny43LzEwICAxMy4zSyB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00349309-kzclvwxuhc-portrait.jpg" alt="" />
-                <h3>Evil Dead Rise</h3>
-                <p>Fantasy/Horror/Thriller</p>
+                <img src="https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@like_202006280402.png,lx-24,ly-617,w-29,l-end:l-text,ie-MTA5LjNLIExpa2Vz,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00388033-zbwdafumem-portrait.jpg" alt="" />
+                <h3>Demon Slayer: Kimetsu No Yaiba - To The Hashira Training</h3>
+                <p>Action/Adventure/Anime</p>
             </div>
 
         </div>
